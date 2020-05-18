@@ -30,8 +30,8 @@ public class Ex6 {
 			System.out.println("보\n");
 		}
 
-		String vic; // String = "";(아무값도 없다)로 써줘도 가능(만약 ""도 없고 default값도 없으면 sout에서 vic오류남 > 1-3외의
-					// 값이 나올 경우에 대한 결과가 없으므로
+		String vic; // String = "";(아무값도 없다)로 써줘도 가능(만약 ""도 없고 default값도 없으면 sout에서 vic오류남 > 
+					// 1-3외의 값이 나올 경우에 대한 결과가 없으므로
 
 		switch (num) { // cpu가 들어가면 default부분 제대로 실행 x / num이 들어가야 모두 정상적으로 작동
 		case 1:
